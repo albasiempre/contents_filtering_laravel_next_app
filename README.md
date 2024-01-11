@@ -1,5 +1,32 @@
 フロントエンドソース：　https://github.com/albasiempre/contents_filtering_laravel_next_client
 
+# ここにタイトルを入れる
+プロダクトに入れるコンテンツ検索機能
+
+## DEMO
+
+  - デプロイしている場合はURLを記入（任意）
+
+## 紹介と使い方
+
+  - APIで引っ張ってきたコンテンツを検索、フィルタリングできるもの
+
+  - Next、Laravelで実装、JSONデータはないので、一旦public APIを利用
+    
+## 工夫した点
+
+  - コンテンツの種類によって、ソートできる機能
+    
+
+## 苦戦した点
+
+  - APIの作成
+  - nextとlaravelの連携
+
+## 参考にした web サイトなど
+
+  - https://qiita.com/shosho/items/93cbff79376c41c3a30b
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
